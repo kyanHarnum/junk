@@ -1,0 +1,13 @@
+# Rojo / Roblox build output
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+*.rbxm
+*.rbxmx
+build/
+
+# Tooling
+.DS_Store
+sourcemap.json
+tests/_generated.luau
